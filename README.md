@@ -60,3 +60,6 @@ Hãy bắt đầu từ đầu, nơi rất tốt để bắt đầu. Tài liệu 
 <img width="500" src="https://berthub.eu/articles/vaccine-toc.png" alt="Schematic">
 </p>
 
+Đây cũng giống như một cái mục lục vậy. Chúng ta sẽ bắt đầu với cái 'cap' (mũ), được miêu tả trong hình bằng cái mũ.
+
+C
