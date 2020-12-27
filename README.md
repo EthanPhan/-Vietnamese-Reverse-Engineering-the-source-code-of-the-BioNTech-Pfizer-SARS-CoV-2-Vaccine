@@ -47,4 +47,6 @@ Khá là kỹ thuật số phải không? Nếu còn thắc mắc về vấn đ�
 
 Vắc-xin mRNA đạt được mục tiêu tương tự ('dạy cho hệ miễn dịch cách chống lại mầm bệnh') nhưng theo một cách như là tia laser vậy: rất tập trung nhưng cũng rất mạnh mẽ.
 
-Và đây là cách nó hoạt động. Liều vắc-xin mà chúng ta đang nói tới chứa mRNA (hay messenger RNA) miêu tả phân tử protein 'Gai' của vi rút SARS-CoV-2. Thông qua các phương tiện hoá học, vắc-xin sẽ đưa mRNA này vào trong tế bào người.
+Và đây là cách nó hoạt động. Liều vắc-xin mà chúng ta đang nói tới chứa mRNA (hay messenger RNA) miêu tả phân tử protein 'Gai' (phân tử protein này nhìn như cái gai nằm trên mặt tế bào vi rút vậy) của vi rút SARS-CoV-2. Thông qua các phương tiện hoá học, vắc-xin sẽ đưa mRNA này vào trong tế bào người.
+
+Điều này sau đó sẽ kích hoạt quá trình sản xuất protein 'Gai' của 
