@@ -52,3 +52,11 @@ Và đây là cách nó hoạt động. Liều vắc-xin mà chúng ta đang nó
 Điều này sau đó sẽ kích hoạt quá trình sản xuất protein 'Gai' của SARS-CoV-2 bên trong cơ thể người với một số đủ lớn để kích hoạt hệ thống miễn dịch phản ứng. Với sự xuất hiện của các protein Gai trong cơ thể cùng các dấu hiệu giống với việc các tế bào cơ thể bị nhiễm bệnh, hệ thống miễn dịch của chúng ta sẽ phát triển một cơ chế phòng vệ mạnh mẽ để vô hiệu hoá các protein Gai và đồng thời chống lại việc sản xuất các protein này.
 
 Và đó là thứ giúp chúng ta đạt được thứ vắc-xin với hiệu quả miễn dịch 95%.
+
+## Mã nguồn!
+
+Hãy bắt đầu từ đầu, nơi rất tốt để bắt đầu. Tài liệu của WHO có hình ảnh rất trực quan như thế này:
+<p align="center">
+<img width="500" src="https://berthub.eu/articles/vaccine-toc.png" alt="Schematic">
+</p>
+
