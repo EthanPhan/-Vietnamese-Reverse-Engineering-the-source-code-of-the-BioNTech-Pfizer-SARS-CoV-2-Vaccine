@@ -45,4 +45,6 @@ Khá là kỹ thuật số phải không? Nếu còn thắc mắc về vấn đ�
 
 Ý tưởng chung của vắc-xin là dạy cho hệ miễn dịch cách để chống lại các mầm bệnh mà không cần phải nhiễm các mầm bệnh đó. Việc này từ trước cho tới nay được thực hiện bằng cách tiêm vào trong cơ thể vi rút đã được làm yếu hoặc vô hiệu hoá (bất hoạt), cộng với một chất bổ trợ để kích thích hệ miễn dịch phản ứng. Cách này cần tới hàng tỷ quả trứng (hoặc côn trùng) để sản xuất ra vắc-xin. Cách này cũng tốn rất nhiều thời gian và đoi hỏi nhiều sự may mắn. Đôi khi cả một chủng vi rút không liên quan gì tới căn bệnh cũng được sử dụng.
 
-Vắc-xin mRNA đạt được mục tiêu tương tự ('dạy cho hệ miễn dịch cách chống lại mầm bệnh') nhưng theo một cách 
+Vắc-xin mRNA đạt được mục tiêu tương tự ('dạy cho hệ miễn dịch cách chống lại mầm bệnh') nhưng theo một cách như là tia laser vậy: rất tập trung nhưng cũng rất mạnh mẽ.
+
+Và đây là cách nó hoạt động. Liều vắc-xin mà chúng ta đang nói tới chứa mRNA (hay messenger RNA) miêu tả phân tử protein 'Gai' của vi rút SARS-CoV-2. Thông qua các phương tiện hoá học, vắc-xin sẽ đưa mRNA này vào trong tế bào người.
