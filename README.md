@@ -146,3 +146,15 @@ Sự sống sử dụng bảng gần như là phổ quát dưới đây để á
 <img width="700" src="https://berthub.eu/articles/rna-codon-table.png" alt="RNA codon table">
 </p>
 <p align="center"> <a href="https://en.wikipedia.org/wiki/DNA_and_RNA_codon_tables">Bảng mã hoá bộ ba RNA</a> (Wikipedia) </p>
+
+Trong bảng này, chúng ta có thể thấy những thay đổi của vắc-xin (chẳng hạn UUU -> UUC) là *đồng nghĩa*. Mã RNA của vắc-xin khác, nhưng những axit amin và protein được tạo ra là giống với của vi rút.
+
+Nếu nhìn kỹ hơn, chúng ta sẽ thấy đa số các thay đổi xảy ra ở vị trí thứ 3 trong của các bộ ba, đánh dấu bởi số 3 ở bên trên. Và nếu chúng ta kiểm tra bảng mã hoá bộ ba, chúng ta sẽ thấy rằng vị trí thứ 3 này thực ra thường không ảnh hưởng tới việc axit amin nào sẽ được sản xuất.
+
+Vậy những thay đổi là *đồng nghĩa* thì tại sao chúng lại ở đó? Nhìn kỹ hơn chúng ta sẽ thấy tất cả các thay đổi ngoại trừ một vị trí sẽ dẫn tới có nhiều C hoặc G hơn trong chuỗi RNA.
+
+Nhưng làm thế để làm gì? Như lưu ý ở trên, hệ miễn dịch của người có một cái nhìn khá lờ mờ về RNA ngoại lai, RNA tới từ bên ngoài tế bào. Để tránh bị phát hiện, các phân tử U đã được thay thế bằng Ψ.
+
+Tuy nhiên, hoá ra RNA với lượng lớn phân tử G và C sẽ được chuyển hoá thành protein một cách hiệu quả hơn. Điều này đã đạt được bằng cách thay thế các phân tử bằng G và C nhiều nhất có thể.
+
+> Cái biến đổi mà không làm tăng số lượng G hoặc C (CCA thành CCU) khiến tôi khá tò mò. Tôi sẽ rất muốn nghe lý do đằng say sự thay đổi bày. Tôi biết rằng một số bộ ba phổ biến trong gen người hơn các bộ ba khác, nhưng tôi cũng đọc được rằng [điều này không ảnh hưởng đáng kể tới tốc độ dịch](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1006024).
