@@ -73,6 +73,6 @@ GA
 
 Cái 'mũ' mRNA [có một số chức năng nhất định](https://en.wikipedia.org/wiki/Five-prime_cap#Function). Đầu tiên, nó đánh dấu rằng đoạn mã đến từ nhân tế bào. Tuy nhiên trong trường hợp này thì đoạn mã không tới từ nhân tế bào mà tới từ vắc-xin. Nhưng chúng ta không cần phải nói với tế bào việc đó. Cái cap khiến cho đoạn mã nhìn giống như những đoạn mã khác trong cơ thể và tránh cho nó bị phá huỷ.
 
-
+Hai phân tử nucleotide `GA` đầu tiên này cũng hơi khác phần còn lại của RNA về mặt hoá học. Về mặt này thì `GA` có thể được coi như một báo hiệu ngoài dải.
 
 
