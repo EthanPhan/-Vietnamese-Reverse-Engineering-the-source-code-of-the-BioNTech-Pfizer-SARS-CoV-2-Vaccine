@@ -99,3 +99,8 @@ Trong bảo mật máy tính có một chiêu tương tự - đôi khi một gó
 Chúng ta giờ đây đang gặt hái thành quả của các nghiên cứu khoa học nền tảng được thực hiện trong quá khứ. [Những nhà nghiên cứu](https://twitter.com/PennMedicine/status/1341766354232365059) khám phá ra kỹ thuật thay thế U bằng Ψ đã phải đấu tranh để giành được tiền tài trợ cho [nghiên cứu của họ](https://www.statnews.com/2020/11/10/the-story-of-mrna-how-a-once-dismissed-idea-became-a-leading-technology-in-the-covid-vaccine-race/). Tất cả chúng ta nên biết ơn vì điều đó, và tôi tin rằng [sớm thôi giải Nobel sẽ về tới tay họ](https://twitter.com/PowerDNS_Bert/status/1329861047168225281).
 
 > Nhiều người hỏi rằng liệu vi rút có dùng kỹ thuật thay thế U bằng Ψ để vượt qua hệ miễn dịch không? Ngắn gọn là cực kỳ khó xảy ra. Sự sống đơn giản là không có phương tiện cần thiết để tạo ra phân tử 1-methyl-3’-pseudouridylyl. Các vắc-xin mRNA sẽ nhanh chóng bị tiêu biến trong cơ thể con người, và chẳng có cơ hội nào để các phân tử RNA với ký tự Ψ tồn tại trong đó cả. ["No, Really, mRNA Vaccines Are Not Going To Affect Your DNA"](https://www.deplatformdisease.com/blog/no-really-mrna-vaccines-are-not-going-to-affect-your-dna) là một bài rất đáng để đọc về vấn đề này.
+
+Ok, quay lại với vùng không dịch 5'. 51 ký tự này có mục đích gì? Cũng giống trong tự nhiên, gần như chẳng cái gì có một chức năng rõ ràng cả.
+
+Khi các tế bào người cần dịch RNA thành protein, việc này được thực hiện bởi một cơ quan tên là ribosome. Ribosome giống như là một cái máy in protein 3D vậy. Nó nhận đầu vào là một chuỗi RNA và dựa vào đó để sinh ra một sợi dây các amino acids, thứ mà sẽ gập lại thành một phân tử protein.
+
