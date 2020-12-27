@@ -42,3 +42,5 @@ Khá là kỹ thuật số phải không? Nếu còn thắc mắc về vấn đ�
 > Một số thông tin chi tiết thêm có thể được tìm thấy [ở đây](https://berthub.eu/articles/posts/what-is-life/) - Đường link này ('Cuộc sống là gì') có thể giúp hiểu hơn về phần còn lại của bài này. Nếu bạn thích video, đây là [video dài 2 tiếng từ tác giả](https://berthub.eu/dna).
 
 ## Vậy cái đoạn mã đó nó làm gì?
+
+Ý tưởng chung của vắc-xin là dạy cho hệ miễn dịch cách để chống lại các mầm bệnh mà không cần phải nhiễm các mầm bệnh đó. Việc này từ trước cho tới nay được thực hiện bằng cách tiêm vào trong cơ thể vi rút đã được làm yếu hoặc vô hiệu hoá (bất hoạt), cộng với một chất bổ trợ để kích thích hệ miễn dịch phản ứng. Cách này cần tới hàng tỷ quả trứng (hoặc côn trùng) để sản xuất ra vắc-xin. Đôi khi cả một chủng vi rút không liên quan gì tới căn bệnh cũng được sử dụng.
