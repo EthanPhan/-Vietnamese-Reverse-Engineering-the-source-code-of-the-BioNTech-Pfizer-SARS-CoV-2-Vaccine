@@ -62,4 +62,14 @@ Hãy bắt đầu từ đầu, nơi rất tốt để bắt đầu. Tài liệu 
 
 Đây cũng giống như một cái mục lục vậy. Chúng ta sẽ bắt đầu với cái 'cap' (mũ), được miêu tả trong hình bằng cái mũ.
 
-C
+Cũng giống như việc bạn không thể quẳng opcodes trong một file đi và chaỵ nó vậy, hệ điều hành sinh học cũng cần headers, linkers và calling conventions.
+
+Mã nguồn của vắc-xin đang nhắc tới bắt đầu với hai ký tự sau đây:
+```
+GA
+```
+
+Đây có thể so sánh với việc mọi file chạy trên Windows và DOS bắt đầu với `MZ`, hay mọi UNIX script đều bắt đầu với `#!` vậy. Trong cả hệ điều hành máy tính lẫn sinh học, các ký tự này đều không được thực thi. Nhưng chúng vẫn cần phải có mặt ở đó vì thiếu chúng thì sẽ không có gì xảy ra cả.
+
+Cái 'mũ' mRNA [có một số chức năng nhất định](https://en.wikipedia.org/wiki/Five-prime_cap#Function). 
+
