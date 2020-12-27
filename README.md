@@ -71,4 +71,8 @@ GA
 
 Đây có thể so sánh với việc mọi file chạy trên Windows và DOS bắt đầu với `MZ`, hay mọi UNIX script đều bắt đầu với `#!` vậy. Trong cả hệ điều hành máy tính lẫn sinh học, các ký tự này đều không được thực thi. Nhưng chúng vẫn cần phải có mặt ở đó vì thiếu chúng thì sẽ không có gì xảy ra cả.
 
-Cái 'mũ' mRNA [có một số chức năng nhất định](https://en.wikipedia.org/wiki/Five-prime_cap#Function). Đầu tiên, nó đánh dấu rằng đoạn mã đến từ nhân tế bào. Tuy nhiên trong trường hợp này thì
+Cái 'mũ' mRNA [có một số chức năng nhất định](https://en.wikipedia.org/wiki/Five-prime_cap#Function). Đầu tiên, nó đánh dấu rằng đoạn mã đến từ nhân tế bào. Tuy nhiên trong trường hợp này thì đoạn mã không tới từ nhân tế bào mà tới từ vắc-xin. Nhưng chúng ta không cần phải nói với tế bào việc đó. Cái cap khiến cho đoạn mã nhìn giống như những đoạn mã khác trong cơ thể và tránh cho nó bị phá huỷ.
+
+
+
+
