@@ -85,3 +85,15 @@ Sự sống bao gồm các protein (hoặc những thứ tạo nên bởi protei
 ```
 GAAΨAAACΨAGΨAΨΨCΨΨCΨGGΨCCCCACAGACΨCAGAGAGAACCCGCCACC
 ```
+
+Ở đây chúng ta có một sự ngạc nhiên đầu tiên. Bình thường RNA bao gồm các ký tự A, C, G và U. Ký tự U trong DNA được gọi là T. Nhưng ở đây lại có ký tự Ψ (đọc là 'sai'). Chuyện gì đang xảy ra vậy?
+
+Đây là một phần rất thông minh về vắc-xin chúng ta đang nói tới. Cơ thể chúng ta có một hệ thống diệt vi rút rất mạnh mẽ. Vì lý do này các tế bào cực kỳ không hứng thú với RNA ngoại lai và rất cố gắng để phá huỷ nó trước khi nó kịp làm bất cứ điều gì.
+
+Đây là một vấn đề với vắc-xin của chúng ta - nó cần vượt qua hệ miễn dịch. Qua nhiều năm nghiên cứu chúng ta đã phát hiện ra rằng nếu thay thế các phân tử U trong RNA bằng một phiên bản hơi khác của nó, hệ miễn dịch của chúng ta sẽ bỏ qua nó. Thật đấy.
+
+Vậy nên trong vắc-xin của BioNTech/Pfizer, tất cả phân tử U được thay thế bằng phân tử 1-methyl-3’-pseudouridylyl, được ký hiệu bởi Ψ. Phần hết sức thông minh về việc này là ở chỗ mặc dù phân tử Ψ thay thế giúp RNA vượt qua hệ miễn dịch, nó vẫn được chấp nhận như phân tử U bình thường trong tế bào.
+
+Trong bảo mật máy tính có một chiêu tương tự - đôi khi một gói tin đã bị làm méo có chủ đích có thể được gửi để đánh lừa firewall và các phần mềm bảo mật, nhưng nó vẫn được chấp nhận ở backend servers - thứ mà có thể bị hack bằng gói tin kia.
+
+Chúng ta giờ đây đang gặt hái thành quả của các nghiên cứu khoa học nền tảng được thực hiện trong quá khứ. [Những nhà nghiên cứu](https://twitter.com/PennMedicine/status/1341766354232365059) khám phá ra kỹ thuật thay thế U bằng Ψ đã phải đấu tranh để giành được tiền tài trợ cho [nghiên cứu của họ](https://www.statnews.com/2020/11/10/the-story-of-mrna-how-a-once-dismissed-idea-became-a-leading-technology-in-the-covid-vaccine-race/). Tất cả chúng ta nên biết ơn vì điều đó, và tôi tin rằng [sớm thôi giải Nobel sẽ về tới tay họ](https://twitter.com/PowerDNS_Bert/status/1329861047168225281).
