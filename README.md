@@ -49,4 +49,4 @@ Vắc-xin mRNA đạt được mục tiêu tương tự ('dạy cho hệ miễn 
 
 Và đây là cách nó hoạt động. Liều vắc-xin mà chúng ta đang nói tới chứa mRNA (hay messenger RNA) miêu tả phân tử protein 'Gai' (phân tử protein này nhìn như cái gai nằm trên mặt tế bào vi rút vậy) của vi rút SARS-CoV-2. Thông qua các phương tiện hoá học, vắc-xin sẽ đưa mRNA này vào trong tế bào người.
 
-Điều này sau đó sẽ kích hoạt quá trình sản xuất protein 'Gai' của 
+Điều này sau đó sẽ kích hoạt quá trình sản xuất protein 'Gai' của SARS-CoV-2 bên trong cơ thể người với một số đủ lớn để kích hoạt hệ thống miễn dịch phản ứng. Với sự xuất hiện của các protein Gai trong cơ thể cùng các dấu hiệu giống với việc các tế bào cơ thể bị nhiễm bệnh, hệ thống miễn dịch của chúng ta sẽ phát triển một cơ chế phòng vệ mạnh mẽ để vô hiệu hoá các protein Gai và đồng thời chống lại việc sản xuất các protein này.
