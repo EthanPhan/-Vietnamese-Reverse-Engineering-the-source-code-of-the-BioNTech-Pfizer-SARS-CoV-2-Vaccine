@@ -115,3 +115,5 @@ Khi các tế bào người cần dịch RNA thành protein, việc này đượ
 Ribosome cần tiếp xúc trực tiếp với RNA để có thể làm việc. Một khi đã ngồi lên trên RNA, nó có thể bắt đầu việc sản sinh protein bằng việc di chuyển trên chuỗi RNA. Từ đây bạn có thể tưởng tượng rằng nó không thể đọc được phần RNA mà nó ngồi lên khi mới tiếp xúc với RNA. Đây chỉ là một trong các chức năng của vùng không dịch 5': chỗ hạ cánh cho ribosome.
 
 Thêm vào đó, vùng không dịch còn cung cấp siêu dữ liệu (metadata): Khi nào thì việc dịch nên diễn ra? và bao nhiêu? Với vắc-xin, siêu dữ liệu này là 'ngay bây giờ' được lấy từ [gen alpha globin](https://www.tandfonline.com/doi/full/10.1080/15476286.2018.1450054). Gen này cũng được biết tới là sản xuất lượng protein rất lớn. Trong những năm trước đây, các nhà khoa học đã tìm ra cách tối ưu vùng không dịch này hơn nữa, vậy nên vùng không dịch trong vắc-xin thậm chí còn tốt hơn cả vùng không dịch của alpha globin.
+
+## S glycoprotein signal peptide
