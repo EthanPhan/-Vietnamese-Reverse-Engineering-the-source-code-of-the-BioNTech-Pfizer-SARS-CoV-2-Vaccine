@@ -6,3 +6,33 @@ Xin chào! Trong bài này chúng ta sẽ phân tích chi tiết toàn bộ mã 
 > Mình không phải tác giả mà dịch từ bản gốc tiếng anh [ở đây](https://berthub.eu/articles/posts/reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/). Background của mình không phải là biotech nên trong quá trình dịch không thể tránh khỏi sai sót. Mọi đóng góp xin liên hệ với mình qua facebook [Ethan Phan](https://www.facebook.com/ethan.phan.79230/)
 
 Điều này có thể nghe hơi lạ, vắc-xin là thứ chất lỏng để tiêm vào người thì tại sao chúng ta lại đan nói về mã nguồn ở đây?
+
+Đây là một câu hỏi rất hay, hãy bắt đầu bằng việc nhìn vào một phần nhỏ của mã nguồn của vắc-xin từ BioNTech/Pfizer, được biết tới dưới cái tên BNT162b2, các tên gọi khác bao gồm Tozinameran hay Comirnaty.
+
+<p align="center">
+<img width="700" src="https://berthub.eu/articles/bnt162b2.png" alt="500 ký tư đầu tiên trong mã nguồn của BNT162b2">
+</p>
+<p align="center"> 500 ký tự đầu tiền trong mã nguồn của vắc-xin BNT162b2. Nguồn: <a href="https://mednet-communities.net/inn/db/media/docs/11889.doc">World Health Organization</a> </p>
+
+Vắc-xin mRNA BNT162b có thành phần quan trọng nhất là một bộ mã nguồn kỹ thuật số dài 4284 ký tự, khá ngắn gọn để nằm vừa trong vài facebook post. Trong giai đoạn đầu tiền của quá trình sản xuất vắc-xin, đoạn mã nguồn này sẽ được đưa vào một máy in DNA (vâng, bạn không nghe nhầm đâu, máy in DNA là có thật đó), thứ sẽ dịch đoạn mã này thành những phân tử DNA thực sự.
+<p align="center">
+<img width="400" src="https://berthub.eu/articles/bioxp-3200.jpg" alt="Máy in DNA BioXp 3200">
+</p>
+<p align="center"> Máy in DNA BioXp 3200 đến từ <a href="https://codexdna.com/products/bioxp-system/">Codex DNA</a> </p>
+
+Máy in sẽ tạo ra một lượng DNA rất nhỏ, thứ mà sau nhiều bước xử lý sinh học và hoá học sẽ biến thành RNA (sẽ nói thêm về RNA sau) trong các lọ vắc-xin. Một liều 30 microgram hoá ra chứa đúng 30 microgram RNA. Ngoài ra còn có một hệ thống đóng gói chất béo rất thông minh để đưa mRNA vào trong tế bào người.
+
+RNA là phiên bản "bộ nhớ làm việc" dễ bay hơi (volatile ‘working memory’) của DNA. DNA giống như là chiếc ổ cứng sinh học vậy. DNA rất bền bỉ, dung lượng lớn đồng thời cũng rất tin cậy. Nhưng cũng giống như những chiếc máy tính không thể thực thi lệnh từ ổ cứng, trước khi được thực thi, lệnh phải được copy vào một bộ nhớ nhanh hơn, mềm dẻo hơn nhưng cũng mong manh hơn nhiều.
+
+Trong máy tính, đó là RAM, trong sinh học là RNA. Chúng tương đồng một cách đáng kinh ngạc. Không giống như ổ cứng, dữ liệu trong RAM rất dễ biến mất nếu không được "chăm sóc" thường xuyên. Lý do mà vắc-xin mRNA của Pfizer/BioNTech phải được bảo quản ở nhiệt độ rất thấp cũng vậy: RNA là một đoá hoa mỏng manh.
+
+Mỗi ký tự trong RNA nặng khoảng 0.53·10⁻²¹ gram, nghĩa là có khoảng 6·10¹⁶ ký tự trong một liều vắc-xin 30 microgram. Tính theo bytes thì là khoảng 25 petabytes, tuy nhiên nó vẫn chỉ là đoạn mã 4284 ký tự được copy tầm 2000 tỷ lần. Do đó lượng thông tin thực sự của vắc-xin chỉ khoảng hơn 1 kilobyte mà thôi. Bản thân vi rút SARS-CoV-2 chứa khoảng 7.5 kilobyte thông tin.
+
+## Một chút thông tin thêm về DNA và RNA
+
+
+
+
+
+
+
