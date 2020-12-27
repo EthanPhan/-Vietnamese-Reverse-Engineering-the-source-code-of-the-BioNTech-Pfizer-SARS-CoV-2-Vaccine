@@ -30,7 +30,13 @@ Mỗi ký tự trong RNA nặng khoảng 0.53·10⁻²¹ gram, nghĩa là có kh
 
 ## Một chút thông tin thêm về DNA và RNA
 
+DNA mà một đoạn mã kỹ thuật số. Không giống như trong những chiếc máy tính dùng 0 và 1, DNA dùng các ký tự A, C, G và U/T (các ‘nucleotides’, ‘nucleosides’ hay ‘bases).
 
+A, C, G và U/T là các phân tử được lưu trữ dưới dạng chuỗi trong DNA (hoặc RNA).
+
+Trong máy tính, mỗi nhóm 8 bít được nhóm lại thành 1 byte, và dữ liệu thường được xử lý theo từng byte.
+
+Tự nhiên lại nhóm 3 nucleotides thành 1 condon (mình không biết tiếng việt cho mấy cái này), và condon thường là đơn vị xử lý cơ bản. Một condon chứa 6 bit dữ liệu (2 bit trên mỗi ký tự, 3 ký tự một condon => 6 bit. Đồng nghĩa với việc một codon có thể có có 2⁶ = 64 giá trị khác nhau).
 
 
 
