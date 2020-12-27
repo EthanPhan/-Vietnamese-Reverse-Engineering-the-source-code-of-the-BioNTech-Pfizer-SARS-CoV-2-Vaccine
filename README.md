@@ -134,3 +134,15 @@ Virus:   AUG UUU GUU UUU CUU GUU UUA UUG CCA CUA GUC UCU AGU CAG UGU GUU
 Vaccine: AUG UUC GUG UUC CUG GUG CUG CUG CCU CUG GUG UCC AGC CAG UGU GUU
                !   !   !   !   ! ! ! !     !   !   !   !   !            
 ```
+
+Vậy chuyện gì đang diễn ra? Tôi đã viết đoạn mã theo nhóm 3 ký tự một cách tình cờ. Ba ký tự RNA làm thành một bộ ba (codon). Và mỗi bộ ba mã hoá một loại axit amin cụ thể. Peptide dẫn đường của vắc-xin chứa đúng những loại axit amin như trong bản thân vi rút.
+
+Vậy tại sao mã RNA lại khác nhau?
+
+Có 4³=64 bộ ba khác nhau, vì có 4 ký tự RNA khác nhau, và mỗi bộ ba chứa 3 ký tự. Tuy nhiên chỉ có 20 axit amin khác nhau mà thôi. Điều này có nghĩa rằng nhiều bộ ba khác nhau mã hoá cùng một axit amin.
+
+Sự sống sử dụng bảng gần như là phổ quát dưới đây để ánh xạ từ các bộ ba thành các axit amin:
+<p align="center">
+<img width="700" src="https://berthub.eu/articles/rna-codon-table.png" alt="RNA codon table">
+</p>
+<p align="center"> <a href="https://en.wikipedia.org/wiki/DNA_and_RNA_codon_tables">Bảng mã hoá bộ ba RNA</a> (Wikipedia) </p>
