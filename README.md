@@ -38,7 +38,7 @@ Trong máy tính, mỗi nhóm 8 bít được nhóm lại thành 1 byte, và d�
 
 Tự nhiên lại nhóm 3 nucleotides thành 1 condon (mình không biết tiếng việt cho mấy cái này), và condon thường là đơn vị xử lý cơ bản. Một condon chứa 6 bit dữ liệu (2 bit trên mỗi ký tự, 3 ký tự một condon => 6 bit. Đồng nghĩa với việc một codon có thể có có 2⁶ = 64 giá trị khác nhau).
 
+Khá là kỹ thuật số phải không? Nếu còn thắc mắc về vấn đề này bạn có thể tra khảo thêm thông tin từ [tài liệu của WHO](https://mednet-communities.net/inn/db/media/docs/11889.doc).
+> Một số thông tin chi tiết thêm có thể được tìm thấy [ở đây](https://berthub.eu/articles/posts/what-is-life/) - Đường link này ('Cuộc sống là gì') có thể giúp hiểu hơn về phần còn lại của bài này. Nếu bạn thích video, đây là [video dài 2 tiếng từ tác giả](https://berthub.eu/dna).
 
-
-
-
+## Vậy cái đoạn mã đó nó làm gì?
