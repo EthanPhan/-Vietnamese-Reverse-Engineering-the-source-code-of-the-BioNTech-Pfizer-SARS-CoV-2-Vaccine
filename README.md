@@ -117,3 +117,20 @@ Ribosome cần tiếp xúc trực tiếp với RNA để có thể làm việc. 
 Thêm vào đó, vùng không dịch còn cung cấp siêu dữ liệu (metadata): Khi nào thì việc dịch nên diễn ra? và bao nhiêu? Với vắc-xin, siêu dữ liệu này là 'ngay bây giờ' được lấy từ [gen alpha globin](https://www.tandfonline.com/doi/full/10.1080/15476286.2018.1450054). Gen này cũng được biết tới là sản xuất lượng protein rất lớn. Trong những năm trước đây, các nhà khoa học đã tìm ra cách tối ưu vùng không dịch này hơn nữa, vậy nên vùng không dịch trong vắc-xin thậm chí còn tốt hơn cả vùng không dịch của alpha globin.
 
 ## S glycoprotein signal peptide
+> Thực sự mình không biết phải dịch cái đề mục này qua tiếng việt như thế nào.
+
+Như đã lưu ý, mục tiêu của vắc-xin là khiến cho tế bào sản xuất một lượng lớn protein Gai của SARS-CoV-2. Cho tới hiện tại chúng ta mới hầu hết nói qua về siêu dữ liệu và những thứ ngoài lề. Bây giờ chúng ta sẽ đi vào địa hạt thực sự của protein của vi rút.
+
+Tuy nhiên vẫn còn một lớp siêu dữ liệu nữa chúng ta phải đi qua. Một khi ribosome đã tạo ra một protein, protein đó cần phải đi đâu đó. Điều này được mã hoá trong "S glycoprotein signal peptide (chuỗi mở đầu mở rộng)". Mình dịch tạm là "peptide dẫn đường glycoprotein S" - thực sự là không nên dịch cái tên này.
+
+Chuyện này có thể được nhìn theo hướng: ở đoạn đầu của protein có một dấu địa chỉ ngắn được mã hoá là một phần trong chính protein đó. Trong trường hợp cụ thể này, peptide dẫn đường nói rằng protein nên thoát ra khỏi tế bào thông qua một cơ quan có tên "endoplasmic reticulum". Ngay cả ngôn ngữ trong phim Star Trek cũng không fancy tới như thế này!
+
+"Peptide dẫn đường" không quá dài, nhưng nếu chúng ta nhìn vào mã của nó sẽ thấy có vài điểm khác biệt giữa vắc-xin và vi rút:
+
+(Để dễ so sánh, mình đã thay thế ký tư Ψ fancy bằng ký tự U thông thường)
+```
+           3   3   3   3   3   3   3   3   3   3   3   3   3   3   3   3
+Virus:   AUG UUU GUU UUU CUU GUU UUA UUG CCA CUA GUC UCU AGU CAG UGU GUU
+Vaccine: AUG UUC GUG UUC CUG GUG CUG CUG CCU CUG GUG UCC AGC CAG UGU GUU
+               !   !   !   !   ! ! ! !     !   !   !   !   !            
+```
