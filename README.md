@@ -105,6 +105,3 @@ Ok, quay lại với vùng không dịch 5'. 51 ký tự này có mục đích g
 Khi các tế bào người cần dịch RNA thành protein, việc này được thực hiện bởi một cơ quan tên là ribosome. Ribosome giống như là một cái máy in protein 3D vậy. Nó nhận đầu vào là một chuỗi RNA và dựa vào đó để sinh ra một sợi dây các amino acids, thứ mà sẽ gập lại thành một phân tử protein.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/9/94/Protein_translation.gif)
-<p align="center">
-<img width="300" src="https://upload.wikimedia.org/wikipedia/commons/9/94/Protein_translation.gif" alt="Schematic">
-</p>
