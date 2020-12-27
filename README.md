@@ -75,4 +75,13 @@ Cái 'mũ' mRNA [có một số chức năng nhất định](https://en.wikipedi
 
 Hai phân tử nucleotide `GA` đầu tiên này cũng hơi khác phần còn lại của RNA về mặt hoá học. Về mặt này thì `GA` có thể được coi như một báo hiệu ngoài dải.
 
+## Vùng không dịch năm phẩy ("5′ untranslated region" hay 5′ UTR)
 
+Các phân tử RNA chỉ có thể được đọc theo một chiều. Cái phần mà việc đọc bắt đầu được gọi là 5' hay "five-prime" (trong tiếng việt có thể đọc là "năm-phẩy"). Việc đọc kết thúc ở đoạn gọi là 3' hay ba-phẩy. Việc đặt tên này khá là khó hiểu.
+
+Sự sống bao gồm các protein (hoặc những thứ tạo nên bởi protein). Và các protein này được miêu tả trong RNA. Quá trình chuyển RNA thành các protein được gọi là dịch (translation).
+
+Ở đây chúng ta có vùng không dịch 5' (vì nó không được dịch nên gọi là vùng không dịch), vậy nên đoạn mã này sẽ không xuất hiện trong phân tử protein:
+```
+GAAΨAAACΨAGΨAΨΨCΨΨCΨGGΨCCCCACAGACΨCAGAGAGAACCCGCCACC
+```
