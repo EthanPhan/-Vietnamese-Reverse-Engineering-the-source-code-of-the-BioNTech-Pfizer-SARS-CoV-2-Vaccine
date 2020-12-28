@@ -158,3 +158,18 @@ Nhưng làm thế để làm gì? Như lưu ý ở trên, hệ miễn dịch c�
 Tuy nhiên, hoá ra RNA với lượng lớn phân tử G và C sẽ được chuyển hoá thành protein một cách hiệu quả hơn. Điều này đã đạt được bằng cách thay thế các phân tử bằng G và C nhiều nhất có thể.
 
 > Cái biến đổi mà không làm tăng số lượng G hoặc C (CCA thành CCU) khiến tôi khá tò mò. Tôi sẽ rất muốn nghe lý do đằng say sự thay đổi bày. Tôi biết rằng một số bộ ba phổ biến trong gen người hơn các bộ ba khác, nhưng tôi cũng đọc được rằng [điều này không ảnh hưởng đáng kể tới tốc độ dịch](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1006024).
+
+## Protein Gai
+3777 ký tự tiếp theo trong chuỗi RNA của vắc-xin cũng được tối ưu tương tự như vậy để tăng số lượng phân tử G và C. Để tiết kiệm diện tích tôi sẽ không liệt kê toàn bộ chuỗi ra đây mà sẽ tập trung vào một đoạn vô cùng đặc biệt trong chuỗi. Đoạn mã này là thứ khiến vắc-xin hoạt động, thứ giúp chúng ta đưa cuộc sống trở lại bình thường:
+```
+                   *   *
+           L   D   K   V   E   A   E   V   Q   I   D   R   L   I   T   G
+Vi rút:   CUU GAC AAA GUU GAG GCU GAA GUG CAA AUU GAU AGG UUG AUC ACA GGC
+Vắc-xin:  CUG GAC CCU CCU GAG GCC GAG GUG CAG AUC GAC AGA CUG AUC ACA GGC
+           L   D   P   P   E   A   E   V   Q   I   D   R   L   I   T   G
+            !     !!! !!        !   !       !   !   !   ! !              
+```
+
+Ở đây chúng ta thấy các thay đổi *đồng nghĩa*. Ví dụ như ở bộ ba đầu tiên CUU được thay bằng CUG. Việc này thêm một phân tử G vào vắc-xin, điều mà chúng ta đã biết là giúp tế bào sản xuất protein hiệu quả hơn. Cả CUU và CUG đều là mã hoá của axit amin 'L' hay Leucine, vậy nên không có gì thay đổi ở protein cả.
+
+Khi chúng ta so sánh toàn bộ protein Gai trong vắc-xin, tất cả thay đồi đều là *đồng nghĩa* như vậy ngoại trừ 2 vị trí, và đó là thứ chúng ta đang thấy ở đây.
