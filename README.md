@@ -173,3 +173,13 @@ Vắc-xin:  CUG GAC CCU CCU GAG GCC GAG GUG CAG AUC GAC AGA CUG AUC ACA GGC
 Ở đây chúng ta thấy các thay đổi *đồng nghĩa*. Ví dụ như ở bộ ba đầu tiên CUU được thay bằng CUG. Việc này thêm một phân tử G vào vắc-xin, điều mà chúng ta đã biết là giúp tế bào sản xuất protein hiệu quả hơn. Cả CUU và CUG đều là mã hoá của axit amin 'L' hay Leucine, vậy nên không có gì thay đổi ở protein cả.
 
 Khi chúng ta so sánh toàn bộ protein Gai trong vắc-xin, tất cả thay đồi đều là *đồng nghĩa* như vậy ngoại trừ 2 vị trí, và đó là thứ chúng ta đang thấy ở đây.
+
+Bộ ba thứ 3 và thứ 4 trong đoạn mã ở trên là các thay đổi thực sự. Các axit amin K và V đã được thay thế bằng 'P' hay Proline. Với axit amin K điều này cần 3 sự thay thế trong khi axit amin V chỉ cần 2.
+
+__Hoá ra hai thay đổi này làm tăng mạnh mẽ hiệu quả của vắc-xin.__
+
+Điều gì đang diễn ra ở đây vậy? Nếu nhìn vào các con vi rút SARS-CoV-2 thực tế bạn sẽ thấy các protein Gai là những chiếc gai trên bề mặt của vi rút.
+<p align="center">
+<img width="700" src="https://berthub.eu/articles/sars-em.jpg" alt="SARS virus particles">
+</p>
+<p align="center"> <a href="https://en.wikipedia.org/wiki/Severe_acute_respiratory_syndrome_coronavirus">Vi rút SARS</a> (Wikipedia) </p>
