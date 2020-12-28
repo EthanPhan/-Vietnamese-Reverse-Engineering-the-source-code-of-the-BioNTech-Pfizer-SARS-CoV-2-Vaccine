@@ -248,3 +248,10 @@ Với bài viết này chúng ta biết chính xác những gì ở trong vắc-
 * Một cái đuôi poly-A với một 'linker' chưa được giải thích
 
 Tối ưu bộ ba thêm vào mRNA rất nhiều G và C. Trong khi đó , sử dụng Ψ (1-methyl-3’-pseudouridylyl) thay cho U giúp vượt qua hệ miễn dịch để mRNA có thể tồn tại trong cơ thể đủ lâu để có hiệu quả.
+
+## Đọc/xem thêm
+Năm 2017 tôi đã có một bài thuyết trình 2 tiếng về DNA, bạn có thể xem nó [ở đây](https://berthub.eu/dna). Cũng giống như bài này, bài thuyết trình hướng tới những người có hiểu biết về máy tính.
+
+Thêm vào đó, tôi vẫn đang duy trì một trang web '[DNA cho lập trình viên](https://berthub.eu/amazing-dna)' kể từ năm 2001.
+
+Cuối cùng, [danh sách các bài blog của tôi](https://berthub.eu/articles) chứa khá nhiều tài liệu liên quan tới DNA, SARS-CoV-2 và COVID.
