@@ -208,3 +208,9 @@ Vắc-xin:  GUG CUG AAG GGC GUG AAA CUG CAC UAC ACA UGA UGA
 ```
 
 Ở cuối của protein chúng ta sẽ thấy một bộ ba 'dừng', đánh dấu bởi ký tự 's' viết thường (stop). Đây là một cách lịch sự để thông báo rằng chuỗi protein nên kết thúc ở đây. Vi rút sử dụng bộ ba UAA để đánh dấu dừng trong khi vắc-xin dùng hai bộ ba UAG liền kề nhau.
+
+## Vùng không dịch 3'
+
+Cũng giống như việc ribosome cần một đoạn 'dẫn vào' ở vùng không dịch 5', ở cuối chuỗi RNA chúng ta sẽ thấy một vùng tương tự được gọi là vùng không dịch 3' (ba phẩy - three prime).
+
+Có thể nói rất dài dòng về vùng không dịch 3', nhưng tôi sẽ trích một đoạn từ [Wikipedia](https://en.wikipedia.org/wiki/Three_prime_untranslated_region): "Vùng không dịch 3' đóng vai trò rất quan trọng vào việc biểu hiện gen bằng cách tác động tới sự định vị, ổn định, và hiệu quả của việc dịch của một mRNA.. __Với những hiểu biết hiện tại của chúng ta về những vùng không dịch 3', chúng vẫn là những ẩn số__".
