@@ -191,3 +191,20 @@ Hoá ra, nếu không thay đổi gì, các gai protein tự do sẽ co lại th
 Và khi vi rút SARS-CoV-2 thực sự xuất hiện với những chiếc gai nhọn, hệ miễn dịch sẽ không hoạt động hiệu quả để chống lại chúng.
 
 Vậy phải sao? Một [nghiên cứu năm 2017 đã mô tả việc thay thế hai axit amin Proline vào đúng vị trí](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5584442/) sẽ khiến cho các gai protein của vi rút SARS-CoV-1 và MERS không bị co lại mà giữ nguyên hình dáng ban đầu của nó dù không được gắn trên thân của vi rút. Điều này xảy ra là vì Proline là một axit amin rất 'cứng' (rigid). Nó giống như một chiếc nẹp giữ cho cấu trúc của protein ổn định ở trạng thái chúng ta cần.
+
+[Những người](https://twitter.com/goodwish916) [đã khám phá ra](https://twitter.com/KizzyPhD) điều này nên đi vòng quanh và đập tay ăn mừng với nhau không ngừng. Họ có thể tỏ ra tự mãn một cách khủng khiếp. Họ xứng đáng được như vậy.
+
+> Cập nhật! [McLellan lab](https://twitter.com/McLellan_Lab/status/1291077489566142464), một trong các nhóm đóng góp vào khám phá này, đã liên hệ với tôi. Họ nói rằng việc đập tay ăn mừng đã bị hạn chế lại bời vì cái đại dịch đang diễn ra, nhưng họ rất vui mừng vì đã có thể đóng góp vào loại vắc-xin chúng ta đang nói tới. Họ cũng nhấn mạnh sự đóng góp của nhiều những nghiên cứu khác, các nhân viên và cả các tình nguyện viên.
+
+## Đoạn cuối của protein, những bước tiếp theo
+
+Nếu đi qua một lượt phần còn lại của mã nguồn chúng ta sẽ gặp một vài sự sửa đổi ở cuối của protein Gai:
+```
+           V   L   K   G   V   K   L   H   Y   T   s             
+Vi rút:   GUG CUC AAA GGA GUC AAA UUA CAU UAC ACA UAA
+Vắc-xin:  GUG CUG AAG GGC GUG AAA CUG CAC UAC ACA UGA UGA 
+           V   L   K   G   V   K   L   H   Y   T   s   s          
+                !   !   !   !     ! !   !          ! 
+```
+
+Ở cuối của protein chúng ta sẽ thấy một bộ ba 'dừng', đánh dấu bởi ký tự 's' viết thường (stop). Đây là một cách lịch sự để thông báo rằng chuỗi protein nên kết thúc ở đây. Vi rút sử dụng bộ ba UAA để đánh dấu dừng trong khi vắc-xin dùng hai bộ ba UAG liền kề nhau.
