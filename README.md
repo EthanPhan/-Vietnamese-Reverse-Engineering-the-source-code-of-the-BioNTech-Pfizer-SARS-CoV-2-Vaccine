@@ -214,3 +214,24 @@ Vắc-xin:  GUG CUG AAG GGC GUG AAA CUG CAC UAC ACA UGA UGA
 Cũng giống như việc ribosome cần một đoạn 'dẫn vào' ở vùng không dịch 5', ở cuối chuỗi RNA chúng ta sẽ thấy một vùng tương tự được gọi là vùng không dịch 3' (ba phẩy - three prime).
 
 Có thể nói rất dài dòng về vùng không dịch 3', nhưng tôi sẽ trích một đoạn từ [Wikipedia](https://en.wikipedia.org/wiki/Three_prime_untranslated_region): "Vùng không dịch 3' đóng vai trò rất quan trọng vào việc biểu hiện gen bằng cách tác động tới sự định vị, ổn định, và hiệu quả của việc dịch của một mRNA.. __Với những hiểu biết hiện tại của chúng ta về những vùng không dịch 3', chúng vẫn là những ẩn số__".
+
+Những gì chúng ta biết là một số vùng không dịch 3' nhất định rất hiệu quả trong việc giúp biểu hiện gen (khiến cho protein được sản xuất). Theo tài liệu từ WHO, vùng không dịch 3' của vắc-xin từ BioNTech/Pfizer
+được lấy từ "the amino-terminal enhancer of split (AES) mRNA and the mitochondrial encoded 12S ribosomal RNA to confer RNA stability and high total protein expression" (Tôi xin phép không dịch đoạn này).
+
+## Đoạn kết thúc tất cả AAAAAAAAAAAAAAAAAAAAAA
+
+Đoạn cuối cùng của mRNA được thêm vào một cái đuôi poly(A). Đây một cách nói lịch sự khác của việc chuối mRNA kết thúc với một đống AAAAAAAAAAAAAAAAAAA. Có vẻ như ngay cả mRNA cũng đã chán ngấy năm 2020 rồi.
+
+mRNA có thể được tái sử dụng nhiều lần, nhưng sau mỗi lần nó sẽ mất đi một vài phân tử A ở cuối. Một khi hết các phân tử A, mRAN sẽ ngường hoạt động và bị loại bỏ. Theo cách này, cái đuôi poly(A) là một cách bảo vệ mRNA chống lại sự thoái hoá.
+
+Các nghiên cứu đã được thực hiện để tìm ra số lượng tối ưu của các phân tử A ở cuối chuỗi mRNA cho vắc-xin. Tôi đã đọc trong một tài liệu rằng con số này đạt đỉnh ở đâu đó 120 phân tử.
+
+Vắc-xin BNT162b2 kết thúc với:
+```
+                                     ****** ****
+UAGCAAAAAA AAAAAAAAAA AAAAAAAAAA AAAAGCAUAU GACUAAAAAA AAAAAAAAAA 
+AAAAAAAAAA AAAAAAAAAA AAAAAAAAAA AAAAAAAAAA AAAAAAAAAA AAAA
+```
+Đây là 30 ký tự A, sau đó là "10 nucleotide linker" (GCAUAUGACU), theo sau bởi 70 ký tự A.
+
+Tôi đoán rằng những gì chúng ta thấy ở đây là kết quả của một cách tối ưu độc quyền để tăng hiệu quả của vắc-xin lên hơn nữa.
