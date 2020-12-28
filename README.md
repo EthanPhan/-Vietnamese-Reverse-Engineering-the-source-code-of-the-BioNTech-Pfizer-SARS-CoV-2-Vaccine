@@ -220,7 +220,7 @@ Những gì chúng ta biết là một số vùng không dịch 3' nhất địn
 
 ## Đoạn kết thúc tất cả AAAAAAAAAAAAAAAAAAAAAA
 
-Đoạn cuối cùng của mRNA được thêm vào một cái đuôi poly(A). Đây một cách nói lịch sự khác của việc chuối mRNA kết thúc với một đống AAAAAAAAAAAAAAAAAAA. Có vẻ như ngay cả mRNA cũng đã chán ngấy năm 2020 rồi.
+Đoạn cuối cùng của mRNA được thêm vào một cái đuôi poly(A) (Nhiều ký tự A liên tiếp). Đây một cách nói lịch sự khác của việc chuối mRNA kết thúc với một đống AAAAAAAAAAAAAAAAAAA. Có vẻ như ngay cả mRNA cũng đã chán ngấy năm 2020 rồi.
 
 mRNA có thể được tái sử dụng nhiều lần, nhưng sau mỗi lần nó sẽ mất đi một vài phân tử A ở cuối. Một khi hết các phân tử A, mRAN sẽ ngường hoạt động và bị loại bỏ. Theo cách này, cái đuôi poly(A) là một cách bảo vệ mRNA chống lại sự thoái hoá.
 
@@ -235,3 +235,16 @@ AAAAAAAAAA AAAAAAAAAA AAAAAAAAAA AAAAAAAAAA AAAAAAAAAA AAAA
 Đây là 30 ký tự A, sau đó là "10 nucleotide linker" (GCAUAUGACU), theo sau bởi 70 ký tự A.
 
 Tôi đoán rằng những gì chúng ta thấy ở đây là kết quả của một cách tối ưu độc quyền để tăng hiệu quả của vắc-xin lên hơn nữa.
+
+## Tổng kết
+
+Với bài viết này chúng ta biết chính xác những gì ở trong vắc-xin mRNA BNT162b2, và hiểu được phần lớn tại sao chúng lại ở đó:
+
+* Cái mũ (CAP) để khiến RNA hợp lệ như các mRNA bình thường
+* Vùng không dịch 5' được tối ưu hoá
+* Một peptide báo hiệu với các bộ ba được tối ưu để gửi protein Gai tới đúng chỗ (sao chép 100% từ vi rút)
+* Môt phiên bản của protein Gai với các bộ ba được tối ưu, cộng với hai axit amin Proline được thay thế vào đúng chỗ để đảm bảo protein Gai giữ được hình dáng nguyên bản
+* Vùng không dịch 3' tối ưu hoá
+* Một cái đuôi poly-A với một 'linker' chưa được giải thích
+
+Tối ưu bộ ba thêm vào mRNA rất nhiều G và C. Trong khi đó , sử dụng Ψ (1-methyl-3’-pseudouridylyl) thay cho U giúp vượt qua hệ miễn dịch để mRNA có thể tồn tại trong cơ thể đủ lâu để có hiệu quả.
