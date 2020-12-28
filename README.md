@@ -183,3 +183,11 @@ __Hoá ra hai thay đổi này làm tăng mạnh mẽ hiệu quả của vắc-x
 <img width="700" src="https://berthub.eu/articles/sars-em.jpg" alt="SARS virus particles">
 </p>
 <p align="center"> <a href="https://en.wikipedia.org/wiki/Severe_acute_respiratory_syndrome_coronavirus">Vi rút SARS</a> (Wikipedia) </p>
+
+Những chiếc gai được gắn trên thân của vi rút (cũng là một phân tử protein có tên nucleocapsid). Vấn đề là vắc-xin của chúng ta lại không sinh ra cái gì để gài những chiếc gai protein lên cả.
+
+Hoá ra, nếu không thay đổi gì, các gai protein tự do sẽ co lại thành một cấu trúc hoàn toàn khác. Nếu vắc-xin dùng các gai protein này cơ thể chúng ta sẽ sản sinh miễn dịch nhưng là miễn dịch chống lại các protein gai đã bị co lại mà thôi.
+
+Và khi vi rút SARS-CoV-2 thực sự xuất hiện với những chiếc gai nhọn, hệ miễn dịch sẽ không hoạt động hiệu quả để chống lại chúng.
+
+Vậy phải sao? Một [nghiên cứu năm 2017 đã mô tả việc thay thế hai axit amin Proline vào đúng vị trí](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5584442/) sẽ khiến cho các gai protein của vi rút SARS-CoV-1 và MERS không bị co lại mà giữ nguyên hình dáng ban đầu của nó dù không được gắn trên thân của vi rút. Điều này xảy ra là vì Proline là một axit amin rất 'cứng' (rigid). Nó giống như một chiếc nẹp giữ cho cấu trúc của protein ổn định ở trạng thái chúng ta cần.
